@@ -8,7 +8,7 @@ Cards are laid out in a grid face down and the player has to take turns flipping
 
 If the two cards match, the player scores a hit
 
-If they do not match, the player loses a move and the two cards are turned back over
+If they do not match, the player loses a move and both the cards are turned back over
 
 The player strives to finish the game in minimum number of moves
 
